@@ -17,7 +17,7 @@ Goal: Master Python fundamentals + NumPy & Pandas before moving into ML and AI p
 6. Object-Oriented Programming
 7. Modules & Packages
 8. Error Handling
-9.Introduction to Jupyter Notebook
+9. Introduction to Jupyter Notebook
 
 ---
 
